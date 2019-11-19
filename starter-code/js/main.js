@@ -48,4 +48,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
   });
 });
 
-
+// Put an unclick function in all the boxes to make it work
